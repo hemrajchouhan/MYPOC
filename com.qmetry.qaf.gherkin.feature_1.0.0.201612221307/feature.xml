@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.qmetry.qaf.gherkin.feature"
+      label="QAF Gherkin Editor"
+      version="1.0.0.201612221307"
+      provider-name="Infostretch Corporation">
+
+   <description url="https://qmetry.github.io/qaf/">
+      QAF Feature file editor providing syntax highlighting, auto
+completion, feature outline, syntax validation and hyperlink
+to corresponding Java annotated classes.
+   </description>
+
+   <copyright>
+      Copyright © 2016 Infostretch Corporation
+   </copyright>
+
+   <license url="">
+      INFOSTRETCH SOFTWARE – BETA/PRE-RELEASE SOFTWARE TESTING LICENSE AGREEMENT
+
+CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS BEFORE OPENING THIS PACKAGE OR SIGNIFYING YOUR ACCEPTANCE BY CLICKING THE APPROPRIATE DIALOG BOX. OPENING THIS PACKAGE, CLICKING THE APPROPRIATE DIALOG BOX OR USING ANY PART OF THE SOFTWARE SIGNIFIES YOUR ACCEPTANCE OF THESE TERMS AND CONDITIONS. IF YOU DO NOT AGREE WITH THEM, PROMPTLY RETURN THE PACKAGE UNOPENED AND UNUSED ALONG WITH ANY OTHER ITEM THAT WAS INCLUDED IN THE SAME CATALOG NUMBER FOR FULL CREDIT.
+
+This Software License Agreement (“Agreement”) is entered into and is effective as of the today (“Effective Date”), by and between InfoStretch Corporation, a California corporation, (“InfoStretch”) with its principal place of business at 3200 Patrick Henry Drive, Suite 250, Santa Clara, CA 95054, and Organization/Individual who installs this software (“Licensee”). “Party” means InfoStretch or Licensee and “Parties” means both of them.
+
+WHEREAS, InfoStretch owns the beta, alpha, or other preliminary version of an InfoStretch software product, related documentation, and any pre-generally available updates, new versions, and upgrades, if any, (collectively, the “Beta Product”) or has the rights to license use of the Beta Product, and is willing to grant to Licensee a limited license to use such Beta Product;
+
+WHEREAS, Licensee and InfoStretch have agreed to a no-obligation evaluation for the purpose of performing tests and evaluations of the Beta Product for Licensee’s own internal use;
+
+WHEREAS, InfoStretch desires to receive from Licensee feedback and results regarding the testing of the Beta Product.
+
+NOW, THEREFORE , in consideration of the mutual covenants and promises set forth in this Agreement and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+1. License
+
+Subject to the terms of this Agreement, InfoStretch grants Licensee, effective upon delivery of the Beta Product, a worldwide, revocable (pursuant the termination section of the Agreement), non-exclusive, royalty-free, and non-transferable license to use the Beta Product on any central processing unit (“CPU”) owned or leased by Licensee and located at its premises, solely for the purpose of Licensee performing internal testing of the Beta Product (“Purpose”).
+
+InfoStretch has NOT made the Beta Product generally available as a formal InfoStretch software product available for licensing by its customers (“GA Product”). If InfoStretch does release a GA Product, replacing the Beta Product, and Licensee desires to acquire a license to use that GA Product, then Licensee must license that GA Product under the then-current license terms with InfoStretch.
+
+2. Restrictions on Use
+
+Licensee agrees NOT to:
+
+a. use the Beta Product to process production data, or where it may be used as would the GA Product;
+
+b. use the Beta Product with data or information that has not been backed up;
+
+c. decompile, disassemble, reverse engineer, or otherwise attempt to derive the Beta Product’s source code from object code, except to the extent expressly permitted by applicable law or treaty despite this limitation;
+
+d. sell, rent, lease, license, sublicense, display, modify, outsource, or otherwise transfer the Beta Product to any third party;
+
+e. release any results of performance tests related to the Beta Product to any third party without InfoStretch’s prior written consent;
+
+f. copy or make any derivative work based upon the Beta Product;
+
+g. use the Beta Product for any purpose other than the Purpose; and
+
+h. export or re-export the Beta Product without both the written consent of InfoStretch and the appropriate U.S. and/or foreign government license.
+
+3. Fees and Costs
+
+a. There are no license fees for Licensee’s use of the Beta Product under this Agreement.
+
+b. Licensee is responsible for all costs and expenses associated with the use of the Beta Product and the performance of all testing and evaluation activities.
+
+4. Copyright and Ownership
+
+All title to and intellectual property rights in the Beta Product, including, but not limited to all modifications thereto, are owned by InfoStretch and/or its licensors, and are protected by both United States copyright law and applicable international copyright treaties. Licensee agrees not to claim or assert title to or ownership of the Beta Product. To the extent expressly permitted by applicable law or treaty, Licensee may copy the Beta Product for backup or archival purposes, but for no other purpose. Licensee may not remove or alter any copyright or proprietary notice from copies of the Beta Product.
+
+The Beta Product may include reference or reuse of other third party or open source products. For details of any such products referenced or reused in the Beta Product – please contact InfoStretch.
+
+5. Feedback
+
+Upon request, Licensee shall promptly provide to InfoStretch, in writing, any relevant feedback on the functionality and performance of the Beta Product and test results (“Feedback”). InfoStretch owns all Feedback relating to the Beta Product. Licensee hereby assigns to InfoStretch all rights, title, and interest in and to the Feedback and all intellectual property therein. If requested by InfoStretch, Licensee agrees to execute such further instruments as InfoStretch may reasonably request confirming InfoStretch’s ownership interest in the Feedback. Licensee expressly acknowledges that its testing of the Beta Product is undertaken on a volunteer basis and it shall have no right in the Beta Product or Feedback, whether in original form (as provided by Licensee) or in respect of any derivative work (whether or not based upon, in whole or in part, on any Feedback).
+
+6. Confidentiality
+
+“Confidential Information” means all proprietary or confidential information that is disclosed by InfoStretch to Licensee or which Licensee has access to in connection with this Agreement, and includes, without limitation, (i) any and all information relating to the Beta Product or services provided by InfoStretch, or InfoStretch’s financial information, software code, flow charts, techniques, specifications, development and marketing plans, strategies, and forecasts; (ii) the terms of this Agreement; and (iii) Feedback. Confidential Information does not include information that Licensee can demonstrate: (a) was lawfully in Licensee’s possession without any obligation of confidentiality prior receipt from InfoStretch; (b) is or becomes a matter of public knowledge through no fault of Licensee; (c) is lawfully received by Licensee from a third party without violation of a duty of confidentiality; or (d) is independently developed by Licensee without use of or reference to the Confidential Information. Licensee shall maintain the confidentiality of the Confidential Information made available, directly or indirectly, by InfoStretch. Licensee shall exercise a reasonable degree of care to protect and preserve the Confidential Information which shall include, without limitation, an obligation to not, without the InfoStretch’s prior written consent: (a) transfer or disclose any Confidential Information to any third party, including to any patenting entity; (b) use any of the Confidential Information for any purpose other than in connection with the Purpose; (c) make copies of the Confidential Information for any purpose other than the Purpose; or (d) take any other action with respect to the Confidential Information that is inconsistent with the confidential and proprietary nature of such information. Notwithstanding the foregoing, Licensee may disclose Confidential Information to Licensee’s employees who have need to know such Confidential Information solely in connection with the Purpose provided that such employees are bound by obligations of confidentiality and use substantially similar (and in no case less protective) to obligations contained in this Agreement. Licensee shall assume full responsibility for any breach of the confidentiality and use obligations in this Agreement caused by any such employees. If the Licensee becomes aware of any unauthorized use or disclosure of the Confidential Information, then Licensee will promptly and fully notify InfoStretch of all facts known to it concerning such unauthorized use or disclosure. In addition, if the Licensee or any of its employees or agents are required (by oral questions, interrogatories, requests for information, or documents in legal proceedings, subpoena, civil investigative demand, or other similar process) to disclose any Confidential Information, the Licensee will not disclose the Confidential Information without providing InfoStretch with commercially reasonable advance prior written notice to allow InfoStretch to seek a protective order or other appropriate remedy or to waive compliance with this provision. If such protective order or other remedy is not obtained, or if InfoStretch waives in writing compliance with the terms of this Agreement, Licensee agrees to furnish only that portion of the Confidential Information which Licensee is advised to furnish by written opinion of Licensee’s counsel and to exercise reasonable efforts to obtain confidential treatment of such Confidential Information. In any event, the Licensee will exercise all commercially reasonable efforts to preserve the confidentiality of InfoStretch’s Confidential Information, including, without limitation, cooperating with InfoStretch to obtain an appropriate protective order or other reliable assurance that confidential treatment will be accorded to the Confidential Information.
+
+7. Equitable Relief
+
+A breach by Licensee of any of the promises or agreements contained herein may result in irreparable and continuing damage to InfoStretch for which there will be no adequate remedy at law, and InfoStretch shall be entitled to seek, in addition to its other rights and remedies hereunder or at law, injunctive and/or other equitable relief, and such further relief as may be proper (including monetary damages if appropriate).
+
+8. Termination
+
+This Agreement shall terminate on the earlier of:
+
+a. September 30, 2014; or
+
+b. immediately upon InfoStretch’s notice of termination for convenience.
+
+Upon termination, Licensee shall cease using the Beta Product and shall uninstall the Beta Product from each applicable CPU. Licensee agrees to destroy and certify the destruction of the Beta Product and delete all copies that have been installed on all CPU’s or upon request return the Beta Product to InfoStretch. Sections 4, 5, 6, 7, 8, 9, and 11 shall survive termination of this Agreement.
+
+9. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+a. THE BETA PRODUCT IS PROVIDED “AS IS” WITHOUT ANY WARRANTY OF ANY KIND WHATSOEVER. INFOSTRETCH AND/OR ITS AFFILIATES AND LICENSORS DO NOT WARRANT THAT THE BETA PRODUCT WILL SATISFY LICENSEE’S REQUIREMENTS, THAT THE BETA PRODUCT IS WITHOUT DEFECT OR ERROR, OR THAT THE OPERATION OF THE BETA PRODUCT WILL BE UNINTERUPTED. INFOSTRETCH DISCLAIMS ANY AND ALL REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, MADE WITH RESPECT TO THE BETA PRODUCT, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+b. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL INFOSTRETCH BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THE BETA PRODUCT, OR ANY ERRORS OR DEFECTS IN THE BETA PRODUCT, INCLUDING, WITHOUT LIMITATION, DAMAGES OR COSTS RELATING TO THE LOSS OF PROFITS, BUSINESS, GOODWILL, DATA OR COMPUTER PROGRAMS, WORK STOPPAGE, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF INFOSTRETCH HAS BEEN ADVISED OF THE POSSIBILITY THEREOF, AND REGARDLESS OF THE LEGAL OR EQUITABLE THEORY UPON WHICH THE CLAIM IS BASED.
+
+10. Governing Law; Mandatory Arbitration
+
+a. This Agreement, and all of the rights and duties of the Parties arising from or relating in any way to the subject matter of this Agreement or the transaction(s) contemplated by it, shall be governed by, construed and enforced in accordance with the laws of the State of California (excluding any conflict of laws provisions of the State of California which would refer to and apply the substantive laws of another jurisdiction).
+
+b. Any dispute, claim, or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation, or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, shall be determined by arbitration in Santa Clara, California before one arbitrator. The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures. Judgment on the award may be entered in any court having jurisdiction. This clause shall not preclude the Parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction. The prevailing Party as determined by the arbitrator will be entitled to reimbursement for attorney’s fees, expenses and costs of investigation, litigation, and arbitration from the other Party.
+
+11. Miscellaneous
+
+a. InfoStretch shall have no obligation to support, service, or repair the Beta Product. Licensee acknowledges and agrees that InfoStretch is under no obligation to provide any maintenance releases, updates, or new versions of the Beta Product. InfoStretch does not guarantee that the Beta Product will become a GA Product. If a GA Product is announced replacing a Beta Product, InfoStretch does not guarantee that the GA Product will be similar in functionality to the comparable Beta Product version licensed under this Agreement. This Agreement creates no obligation on behalf of Licensee to license any GA Product.
+
+b. This Agreement is the entire understanding between Licensee and InfoStretch and replaces any prior communication, agreement, or understanding of any kind, oral or written, concerning the subject matter hereof. No amendment or other modification to this Agreement shall be valid or binding with respect to either Party unless agreed to in writing and signed by an authorized officer of each Party.
+
+c. If any part of this Agreement is found to be invalid or unenforceable, that part will be modified to the extent necessary to eliminate its invalidity or unenforceability, and the remaining terms will be in full force and effect. Licensee may not assign or otherwise transfer this Agreement or any of its rights or obligations without the prior written consent of InfoStretch.
+
+d. Any forbearance or delay on the part of either Party in enforcing any provision of this Agreement or any of its rights hereunder shall not be construed as a waiver of such provision or of a right to enforce the same for any future occurrence.
+
+e. Nothing in this Agreement will be construed as creating a joint venture, partnership, or principal/agent relationship between the Parties.
+
+f. This Section applies to all acquisitions of the commercial Beta Product subject to this Agreement by or on behalf of the federal government, or by any prime contractor or subcontractor (at any tier) under any contract, grant, cooperative agreement, or other activity with the federal government. By accepting delivery of the Beta Product, the government hereby agrees that the Beta Product qualifies as “commercial” within the meaning of the acquisition regulation(s) applicable to this procurement. The terms and conditions of this Agreement shall pertain to the government’s use and disclosure of the Beta Product, and shall supersede any conflicting contractual terms and conditions. If the license granted by this Agreement fails to meet the government’s needs or is inconsistent in any respect with Federal law, the government agrees to return the Beta Product, unused, to InfoStretch. The following additional statement applies only to acquisitions governed by DFARS Subpart 227.4 (October 1988): “Restricted Rights – Use, duplication and disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 (Oct. 1988).”
+
+g. This Agreement may be executed in counterparts which, taken together, shall constitute one agreement and each Party may execute this Agreement by signing such counterpart. Facsimile signatures will be treated as originals. The Parties agree and acknowledge that notwithstanding any law or presumption to the contrary, the exchange of copies of this Agreement and the signature pages by electronic transmission shall constitute effective execution and delivery of this Agreement for all purposes, and signatures of the Parties transmitted electronically shall be deemed original signatures for all purposes.
+   </license>
+
+   <url>
+      <discovery label="Xtext Update Site" url="http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/"/>
+   </url>
+
+   <requires>
+      <import plugin="org.eclipse.xtext"/>
+      <import plugin="org.eclipse.emf.ecore"/>
+      <import plugin="org.eclipse.xtext.xbase.lib"/>
+      <import plugin="org.antlr.runtime"/>
+      <import plugin="org.eclipse.xtext.util"/>
+      <import plugin="org.eclipse.emf.common"/>
+      <import plugin="org.eclipse.xtext.common.types"/>
+      <import plugin="org.apache.log4j"/>
+      <import plugin="org.eclipse.xtext.ui"/>
+      <import plugin="org.eclipse.xtext.ui.shared"/>
+      <import plugin="org.eclipse.xtext.ui.codetemplates.ui"/>
+      <import plugin="org.eclipse.ui.editors"/>
+      <import plugin="org.eclipse.ui.ide"/>
+      <import plugin="org.eclipse.ui"/>
+      <import plugin="org.eclipse.compare"/>
+      <import plugin="org.eclipse.xtext.builder"/>
+      <import plugin="org.eclipse.xtext.common.types.ui"/>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.jface.text"/>
+      <import plugin="org.eclipse.ui"/>
+      <import plugin="org.eclipse.ui.ide"/>
+      <import plugin="org.eclipse.jdt.ui"/>
+      <import plugin="org.eclipse.jdt.core"/>
+      <import plugin="org.eclipse.core.resources"/>
+      <import plugin="com.google.guava"/>
+      <import plugin="com.google.inject"/>
+      <import plugin="org.eclipse.xtext.xbase"/>
+      <import plugin="org.eclipse.equinox.common"/>
+      <import plugin="org.eclipse.xtend.lib"/>
+      <import plugin="org.eclipse.jdt"/>
+      <import plugin="org.eclipse.jdt.core"/>
+      <import plugin="org.eclipse.wst.common.emf"/>
+      <import plugin="org.eclipse.wst.common.emfworkbench.integration"/>
+      <import plugin="org.eclipse.xtend.typesystem.emf"/>
+      <import plugin="org.eclipse.xtext.generator"/>
+      <import plugin="org.eclipse.xtext.xtext.generator"/>
+      <import plugin="com.qmetry.qaf.gherkin"/>
+      <import plugin="com.qmetry.qaf.common"/>
+   </requires>
+
+   <plugin
+         id="com.qmetry.qaf.gherkin"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.201612221307"
+         unpack="false"/>
+
+   <plugin
+         id="com.qmetry.qaf.gherkin.ui"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.201612221307"
+         unpack="false"/>
+
+   <plugin
+         id="com.qmetry.qaf.common"
+         download-size="0"
+         install-size="0"
+         version="1.0.2.201612221307"
+         unpack="false"/>
+
+</feature>
